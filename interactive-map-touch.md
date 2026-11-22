@@ -11,6 +11,7 @@ caption: >-
   επιλεγμένος προορισμός επισημαίνεται και οι διαθέσιμες ενέργειες
   αλλάζουν σύμφωνα με το συγκεκριμένο σημείο. Ο χρήστης μετατρέπει
   τη γεωγραφική πληροφορία σε προσωπική επιλογή και επόμενη ενέργεια.
+  Πηγή και άδεια χρήσης: [Organic Map — CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Organic-map--screeshot.jpg).
 license_url: "https://commons.wikimedia.org/wiki/File:Organic-map--screeshot.jpg"
 license_text: "Organic Map — CC BY-SA 4.0. Στιγμιότυπο 2021, Wikimedia Commons. Η κύρια εικόνα διατηρείται όπως υποβλήθηκε, χωρίς επεξεργασία."
 categories:

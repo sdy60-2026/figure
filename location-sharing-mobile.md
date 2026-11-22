@@ -12,6 +12,7 @@ caption: >-
   Επειδή τα δεδομένα θέσης αποτυπώνουν προσωπικές μετακινήσεις,
   αναδεικνύεται και η ανάγκη συνειδητού ελέγχου της πρόσβασης
   σε αυτά. Η εικόνα δείχνει καταγραφή, όχι ζωντανή κοινοποίηση θέσης.
+  Πηγή και άδεια χρήσης: [Eofster και συνεισφέροντες OpenStreetMap — CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Private_Tracker_track_details.png).
 license_url: "https://commons.wikimedia.org/wiki/File:Private_Tracker_track_details.png"
 license_text: "Eofster και συνεισφέροντες OpenStreetMap — CC BY-SA 4.0. Στιγμιότυπο Private Tracker (2024), Wikimedia Commons. Η κύρια εικόνα διατηρείται χωρίς επεξεργασία."
 categories:
