@@ -7,11 +7,12 @@ caption: "Το IBM Simon αποτέλεσε ένα πρώιμο παράδειγ
 license_url: "https://commons.wikimedia.org/wiki/File:IBM_Simon_Personal_Communicator.png"
 license_text: "Public Domain"
 categories:
-  - Κινητές Συσκευές
-  - Οθόνες Αφής
+  - Αρχέτυπα
+  - Συσκευές εισόδου
 tags:
+  - IBM
   - IBM Simon
-  - Touchscreen
-  - Stylus
-  - Human Computer Interaction
+  - Οθόνη αφής
+  - Γραφίδα
+  - PDA
 ---

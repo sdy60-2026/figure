@@ -7,11 +7,12 @@ caption: "Το πρώτο Apple iPhone συνέβαλε στη διάδοση τ
 license_url: "https://commons.wikimedia.org/wiki/File:IPhone_First_Generation.jpg"
 license_text: "Carl Berkeley - CC BY-SA 2.0"
 categories:
-  - Κινητές Συσκευές
-  - Οθόνες Αφής
+  - Συσκευές εισόδου
+  - Ευχρηστία
 tags:
-  - Apple iPhone
-  - Multi-touch
-  - Touch Gestures
-  - Human Computer Interaction
+  - Apple
+  - iPhone
+  - Οθόνη αφής
+  - Πολλαπλή αφή
+  - Χειρονομίες
 ---
