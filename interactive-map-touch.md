@@ -14,14 +14,15 @@ caption: >-
 license_url: "https://commons.wikimedia.org/wiki/File:Organic-map--screeshot.jpg"
 license_text: "Organic Map — CC BY-SA 4.0. Στιγμιότυπο 2021, Wikimedia Commons. Η κύρια εικόνα διατηρείται όπως υποβλήθηκε, χωρίς επεξεργασία."
 categories:
+  - Μορφές
+  - Συσκευές Εισόδου
   - Κινητός Υπολογισμός
-  - Διάχυτος Υπολογισμός
   - Οθόνες Αφής
-  - Επίγνωση Πλαισίου
+  - Τοποθεσία Χρήστη
 tags:
   - Organic Maps
+  - Open Street Map
   - Ψηφιακός Χάρτης
   - Σημεία Ενδιαφέροντος
-  - Οπτική Ανατροφοδότηση
   - Χωρική Διάδραση
 ---
